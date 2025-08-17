@@ -1,6 +1,5 @@
 # 📚 Kütüphane Uygulaması — README
 
-> Kaynak dosya: :contentReference[oaicite:0]{index=0}
 
 ## 🎯 Amaç
 ✅ Konsol tabanlı basit bir kütüphane otomasyonu  
