@@ -1,4 +1,4 @@
-# 📚 Kütüphane Uygulaması — README
+# 📚 Kütüphane Uygulaması — 
 
 
 ## 🎯 Amaç
